@@ -1,0 +1,7 @@
+The data has been cleaned to ensure its accuracy and reliability for analysis. Here's a summary of the actions taken:
+
+*   **Missing Values:** We addressed one missing entry in the 'revenue' column to ensure complete financial figures for reporting.
+*   **Duplicates:** We verified that no duplicate records were present, confirming the uniqueness of our data entries.
+*   **Data Types:** We standardized column data types (e.g., 'revenue' as a decimal number, 'quantity' as a whole number) to enable accurate calculations and consistent analysis.
+
+This preparation ensures the dataset is robust and ready for generating trustworthy insights.
