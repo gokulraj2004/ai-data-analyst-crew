@@ -1,0 +1,13 @@
+Order Date,Region,Category,Product,Revenue,Quantity
+2024-01-05,South,Electronics,Phone,45000,3
+2024-01-12,North,Furniture,Chair,12000,5
+2024-01-15,East,Electronics,Laptop,78000,2
+2024-02-02,West,Office Supplies,Pen,2000,50
+2024-02-10,South,Furniture,Table,25000,1
+2024-02-18,North,Electronics,Phone,46000,3
+2024-03-03,East,Office Supplies,Notebook,,40
+2024-03-08,West,Electronics,Laptop,82000,2
+2024-03-15,South,Electronics,Phone,45000,3
+2024-03-20,North,Furniture,Chair,12000,5
+2024-03-25,East,Electronics,Laptop,79000,2
+2024-03-28,West,Office Supplies,Pen,2100,55
