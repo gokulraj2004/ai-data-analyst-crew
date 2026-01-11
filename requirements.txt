@@ -1,6 +1,0 @@
-pandas
-numpy
-crewai
-openai
-python-dotenv
-google-generativeai
